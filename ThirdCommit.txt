@@ -1,5 +1,6 @@
 3 posheel!!!
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Develop vetka update 2
 <<<<<<< HEAD
@@ -7,3 +8,7 @@ Develop vatka update cherry-pick2
 >>>>>>> bfc0960... for cherry-pick 2
 =======
 >>>>>>> parent of 60255d8... for cherrypick commits
+=======
+Develop vetka update 2
+Develop vatka update cherry-pick2
+>>>>>>> develop

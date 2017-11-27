@@ -1,1 +1,6 @@
 3 posheel!!!
+<<<<<<< HEAD
+=======
+Develop vetka update 2
+Develop vatka update cherry-pick2
+>>>>>>> bfc0960... for cherry-pick 2
